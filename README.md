@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Simon 👋
 
 - 🧑‍🎓 I'm a student of Automatics and Robotics at Silesian University of Technology. 
 - 🔭 I’m currently working on autonomous docking algorithm for AGV platform. 
