@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🧑‍🎓 I'm a student of Automatics and Robotics at Silesian University of Technology. 
+- 🔭 I’m currently working on autonomous docking algorithm for AGV platform. 
+- 🌱 I’m currently learning Machine Learning, Rust and almost everything else. 
+- 📫 How to reach me: szymon.ciemala@protonmail.com
+
 <!--
 **szymciem8/szymciem8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
