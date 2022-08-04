@@ -10,7 +10,7 @@ I'm currently focusing on improving my skills in machine learning.
 
 ### Skills
 <div style="background-color:green">
-  <p align="left" style="display:inline-block; background-color="#ffffff";>
+  <p align="left" style="background-color:green">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="36" height="36" alt="Jupyter" /></a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="36" height="36" alt="Tensorflow" /></a>
