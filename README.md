@@ -3,9 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm currently focusing on improving my skills in machine learning.
 
-* 🌍  I'm based in Poland
+* 🌍  I'm based in Poland.
 * 🧑‍🎓  I am studying for a master's degree in computer science at Silesian University of Technology. 
-* ✉️  You can contact me at [szymon.ciemala@protonmail.com](mailto:szymon.ciemala@protonmail.com)
+* ✉️  You can contact me at [szymon.ciemala@protonmail.com](mailto:szymon.ciemala@protonmail.com).
 * 🧠  I'm learning PySpark and MLops.
 
 ### Skills
