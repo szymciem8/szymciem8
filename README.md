@@ -20,7 +20,7 @@ I'm currently focusing on improving my skills in machine learning.
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="40" height="40" alt="Tensorflow" /></a>
     <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo-ubuntu_cof-orange-hex.svg" width="40" height="40" alt="Tensorflow" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://ccie.tv/content/images/2019/08/docker-2.svg" width="40" height="40" alt="Tensorflow" /></a>
-  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="80" height="37" alt="Tensorflow" /></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" width="90" height="37" alt="Tensorflow" /></a>
   <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/a/30/amazon-web-services.svg" width="80" height="36" alt="Jupyter" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   </p>
