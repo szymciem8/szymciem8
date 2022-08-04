@@ -10,7 +10,7 @@ I'm currently focusing on improving my skills in machine learning.
 * 🧠  I'm learning PySpark and MLops.
 * 💻 Future Projects:
   * 📈 Time series prediction (LSTM, Transformer)
-  * 🎶 Sound classification
+  * 🎶 Sound classification (CNN)
 
 ### Skills
 
