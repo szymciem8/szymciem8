@@ -9,7 +9,7 @@ I'm currently focusing on improving my skills in machine learning.
 * 🧠  I'm learning PySpark and MLops.
 
 ### Skills
-<span style="color:green;">
+<span style="color:red">
   <p align="left" style="background-color:green">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" width="36" height="36" alt="Jupyter" /></a>
