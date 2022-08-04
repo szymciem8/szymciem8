@@ -5,9 +5,12 @@ I'm currently focusing on improving my skills in machine learning.
 
 * 🌍  I'm based in Poland.
 * 🧑‍🎓  I am studying for a master's degree in computer science at Silesian University of Technology. 
-  * 📝 Thesis: Analysis of thyroid US images using artificial intelligence methods   
+  * 📝 Thesis: Analysis of thyroid US images using artificial intelligence methods.
 * ✉️  You can contact me at [szymon.ciemala@protonmail.com](mailto:szymon.ciemala@protonmail.com).
 * 🧠  I'm learning PySpark and MLops.
+* 💻 Future Projects:
+  * 📈 Time series prediction (LSTM, Transformer)
+  * 🎶 Sound classification
 
 ### Skills
 
