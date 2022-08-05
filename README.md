@@ -8,6 +8,7 @@ I'm currently focusing on improving my skills in machine learning.
   * 📝 Thesis: Analysis of thyroid US images using artificial intelligence methods.
 * ✉️  You can contact me at [szymon.ciemala@protonmail.com](mailto:szymon.ciemala@protonmail.com).
 * 🧠  I'm learning PySpark and MLops.
+* ⚒️  Currently working on: Watermark-Remover. 
 * 💻 Future Projects:
   * 📈 Time series prediction (LSTM, Transformer)
   * 🎶 Sound classification (CNN)
