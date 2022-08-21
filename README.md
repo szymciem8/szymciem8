@@ -12,6 +12,7 @@ I'm currently focusing on improving my skills in machine learning.
 * 💻 Future Projects:
   * 📈 Time series prediction (LSTM, Transformer)
   * 🎶 Sound classification (CNN)
+  * 🖼️ GAN for paintings
 
 ### Skills
 
