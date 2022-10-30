@@ -7,10 +7,9 @@ I'm currently focusing on improving my skills in machine learning.
 * 🧑‍🎓  I am studying for a master's degree in computer science at Silesian University of Technology. 
   * 📝 Thesis: Analysis of thyroid US images using artificial intelligence methods.
 * ✉️  You can contact me at [szymon.ciemala@protonmail.com](mailto:szymon.ciemala@protonmail.com).
-* 🧠  I'm learning PySpark and MLops.
-* ⚒️  Currently working on: Watermark-Remover. 
+* 🧠  I'm learning PySpark.
+* ⚒️  📈 Time series prediction (LSTM, Transformer).
 * 💻 Future Projects:
-  * 📈 Time series prediction (LSTM, Transformer)
   * 🎶 Sound classification (CNN)
   * 🖼️ GAN for paintings
 
